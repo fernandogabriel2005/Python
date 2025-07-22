@@ -1,0 +1,1 @@
+teste = input('Digite seu nome: ')
